@@ -2,8 +2,6 @@
 
 Yet another person who likes programming, but it's not just that!
 
-![buro!](https://mdmp.online/media/buro-dance.gif)
-
 🛰️ I really like building complex algorithms and systems. 
 Spending half of my day trying to solve something incredibly hard and interesting at the same time is about me.
 
