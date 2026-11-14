@@ -1,4 +1,4 @@
-## Hey there [🐈](mailto:taypexoffcl@gmail.com)
+## Profile [🐈](mailto:taypexoffcl@gmail.com)
 
 Yet another person who likes programming, but it's not just that!
 
