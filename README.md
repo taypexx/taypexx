@@ -1,6 +1,6 @@
 ## Profile [🐈](mailto:taypexoffcl@gmail.com)
 
-Yet another person who likes programming, but it's not just that!
+Hey there! I am yet another person who likes programming, but it's not just that!
 
 🛰️ I really like building complex algorithms and systems. 
 Spending half of my day trying to solve something incredibly hard and interesting at the same time is about me.
